@@ -118,9 +118,9 @@ op
 
 <img width="510" alt="image" src="https://github.com/Vineesha29031970/ODD2023---Datascience---Ex-02/assets/133136880/e3c4a36c-c75a-48e3-8e49-fc28316a3560">
 
-<img width="510" alt="image" src="https://github.com/Vineesha29031970/ODD2023---Datascience---Ex-02/assets/133136880/dfa970d8-e514-4e42-8da4-b40eebf23116">
+<img width="500" alt="image" src="https://github.com/Vineesha29031970/ODD2023---Datascience---Ex-02/assets/133136880/dfa970d8-e514-4e42-8da4-b40eebf23116">
 
-<img width="400" alt="image" src="https://github.com/Vineesha29031970/ODD2023---Datascience---Ex-02/assets/133136880/a28a8d00-d056-44e6-b6fa-d0669cb0fea4">
+<img width="480" alt="image" src="https://github.com/Vineesha29031970/ODD2023---Datascience---Ex-02/assets/133136880/a28a8d00-d056-44e6-b6fa-d0669cb0fea4">
 
 <img width="510" alt="image" src="https://github.com/Vineesha29031970/ODD2023---Datascience---Ex-02/assets/133136880/8ebcffdb-9fce-4d3b-9e25-a3f6306fcf00">
 
