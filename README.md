@@ -118,15 +118,21 @@ op
 
 <img width="510" alt="image" src="https://github.com/Vineesha29031970/ODD2023---Datascience---Ex-02/assets/133136880/e3c4a36c-c75a-48e3-8e49-fc28316a3560">
 
+
 <img width="510" alt="image" src="https://github.com/Vineesha29031970/ODD2023---Datascience---Ex-02/assets/133136880/dfa970d8-e514-4e42-8da4-b40eebf23116">
+
 
 <img width="510" alt="image" src="https://github.com/Vineesha29031970/ODD2023---Datascience---Ex-02/assets/133136880/a28a8d00-d056-44e6-b6fa-d0669cb0fea4">
 
+
 <img width="510" alt="image" src="https://github.com/Vineesha29031970/ODD2023---Datascience---Ex-02/assets/133136880/8ebcffdb-9fce-4d3b-9e25-a3f6306fcf00">
+
 
 <img width="510" alt="image" src="https://github.com/Vineesha29031970/ODD2023---Datascience---Ex-02/assets/133136880/4d303037-253e-45a6-b28a-7ac026a44aa4">
 
+
 <img width="510" alt="image" src="https://github.com/Vineesha29031970/ODD2023---Datascience---Ex-02/assets/133136880/8c8b908c-dee0-4805-b0e3-535e9b52402a">
+
 
 # RESULT:
 Thus, the given data is read,remove outliers and save a new dataframe was created and executed successfully.
