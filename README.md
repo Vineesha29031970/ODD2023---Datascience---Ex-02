@@ -91,15 +91,38 @@ op
 ```
 # OUTPUT:
 <img width="522" alt="image" src="https://github.com/Vineesha29031970/ODD2023---Datascience---Ex-02/assets/133136880/4baeb615-0cab-4f01-ac0a-f31d46f9a692">
+
+
+
 <img width="476" alt="image" src="https://github.com/Vineesha29031970/ODD2023---Datascience---Ex-02/assets/133136880/c2e40600-8daf-4115-8ab7-aa8f962e0fd6">
+
+
+
 <img width="135" alt="image" src="https://github.com/Vineesha29031970/ODD2023---Datascience---Ex-02/assets/133136880/6a99428f-811a-4aa1-ad4b-3ad034976e21">
+
+
+
 <img width="42" alt="image" src="https://github.com/Vineesha29031970/ODD2023---Datascience---Ex-02/assets/133136880/e3c4a36c-c75a-48e3-8e49-fc28316a3560">
+
+
+
 <img width="197" alt="image" src="https://github.com/Vineesha29031970/ODD2023---Datascience---Ex-02/assets/133136880/dfa970d8-e514-4e42-8da4-b40eebf23116">
+
+
+
 <img width="38" alt="image" src="https://github.com/Vineesha29031970/ODD2023---Datascience---Ex-02/assets/133136880/a28a8d00-d056-44e6-b6fa-d0669cb0fea4">
+
+
+
 <img width="365" alt="image" src="https://github.com/Vineesha29031970/ODD2023---Datascience---Ex-02/assets/133136880/8ebcffdb-9fce-4d3b-9e25-a3f6306fcf00">
+
+
+
 <img width="70" alt="image" src="https://github.com/Vineesha29031970/ODD2023---Datascience---Ex-02/assets/133136880/4d303037-253e-45a6-b28a-7ac026a44aa4">
 
-RESULT:
+
+
+# RESULT:
 Thus, the given data is read,remove outliers and save a new dataframe was created and executed successfully.
 
 
