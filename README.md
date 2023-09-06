@@ -1,10 +1,10 @@
 # Ex02-Outlier
 
-AIM:
+# AIM:
 
 To read a given dataset and remove outliers and save a new dataframe.
 
-ALGORITHM:
+# ALGORITHM:
 
 (1) Remove outliers using IQR
 
@@ -18,7 +18,7 @@ ALGORITHM:
 
 (ii) Using IQR, detect height outliers and print them
 
-PROGRAM:
+# PROGRAM:
 ```
 import pandas as pd
 
@@ -57,7 +57,7 @@ dq = df[((df['height']>=min)&(df['height']<=max))]
 dq
 ```
 
-ZSCORE
+# ZSCORE
 ```
 import pandas as pd
 
@@ -106,7 +106,7 @@ op = d_o(val)
 
 op
 ```
-OUTPUT:
+# OUTPUT:
 
 <img width="522" alt="image" src="https://github.com/Vineesha29031970/ODD2023---Datascience---Ex-02/assets/133136880/4baeb615-0cab-4f01-ac0a-f31d46f9a692">
 <img width="476" alt="image" src="https://github.com/Vineesha29031970/ODD2023---Datascience---Ex-02/assets/133136880/c2e40600-8daf-4115-8ab7-aa8f962e0fd6">
