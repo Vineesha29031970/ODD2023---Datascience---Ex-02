@@ -133,7 +133,7 @@ op
 <img width="510" alt="image" src="https://github.com/Vineesha29031970/ODD2023---Datascience---Ex-02/assets/133136880/dfa970d8-e514-4e42-8da4-b40eebf23116">
 
 
-<img width="510" alt="image" src="https://github.com/Vineesha29031970/ODD2023---Datascience---Ex-02/assets/133136880/c6a92bda-c7f3-4514-89c8-c4c35e2e18b9">
+<img width="509.9" alt="image" src="https://github.com/Vineesha29031970/ODD2023---Datascience---Ex-02/assets/133136880/c6a92bda-c7f3-4514-89c8-c4c35e2e18b9">
 
 <img width="510.9" alt="image" src="https://github.com/Vineesha29031970/ODD2023---Datascience---Ex-02/assets/133136880/b799f75e-5c87-4cee-aca2-72add680f666">
 
