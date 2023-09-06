@@ -135,7 +135,6 @@ op
 
 
 
-<img width="510" alt="image" src="https://github.com/Vineesha29031970/ODD2023---Datascience---Ex-02/assets/133136880/a28a8d00-d056-44e6-b6fa-d0669cb0fea4">
 
 
 
