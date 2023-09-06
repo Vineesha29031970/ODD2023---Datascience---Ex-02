@@ -107,6 +107,8 @@ op
 
 <img width="510" alt="image" src="https://github.com/Vineesha29031970/ODD2023---Datascience---Ex-02/assets/133136880/4d303037-253e-45a6-b28a-7ac026a44aa4">
 
+<img width="510" alt="image" src="https://github.com/Vineesha29031970/ODD2023---Datascience---Ex-02/assets/133136880/8c8b908c-dee0-4805-b0e3-535e9b52402a">
+
 # RESULT:
 Thus, the given data is read,remove outliers and save a new dataframe was created and executed successfully.
 
