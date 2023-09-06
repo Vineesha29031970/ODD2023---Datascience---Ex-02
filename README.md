@@ -18,6 +18,7 @@ ALGORITHM:
 (ii) Using IQR, detect height outliers and print them
 
 PROGRAM:
+```
 
 import pandas as pd
 
@@ -54,8 +55,10 @@ high = max+1.5*iqr
 dq = df[((df['height']>=min)&(df['height']<=max))]
 
 dq
+```
 
 ZSCORE
+```
 
 import pandas as pd
 
@@ -103,7 +106,7 @@ return out
 op = d_o(val)
 
 op
-
+```
 OUTPUT:
 
 <img width="522" alt="image" src="https://github.com/Vineesha29031970/ODD2023---Datascience---Ex-02/assets/133136880/4baeb615-0cab-4f01-ac0a-f31d46f9a692">
