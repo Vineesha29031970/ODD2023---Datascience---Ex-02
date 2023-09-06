@@ -21,13 +21,9 @@ To read a given dataset and remove outliers and save a new dataframe.
 # PROGRAM:
 ```
 import pandas as pd
-
 import numpy as np
-
 import seaborn as sns
-
 import pandas as pd
-
 from scipy import stats
 
 df = pd.read_csv("/content/heights.csv")
@@ -37,7 +33,6 @@ sns.boxplot(data=df)
 sns.scatterplot(data=df)
 
 max =df['height'].quantile(0.90)
-
 min =df['height'].quantile(0.15)
 
 max
@@ -49,7 +44,6 @@ dq = df[((df['height']>=min)&(df['height']<=max))]
 dq
 
 low = min-1.5*iqr
-
 high = max+1.5*iqr
 
 dq = df[((df['height']>=min)&(df['height']<=max))]
@@ -60,25 +54,18 @@ dq
 # ZSCORE
 ```
 import pandas as pd
-
 import numpy as np
-
 import seaborn as sns
-
 import pandas as pd
-
 from scipy import stats
 
 data = {'weight':[12,15,18,21,24,27,30,33,36,39,42,45,48,51,54,57,60,63,66,69,202,72,75,78,81,84,232,87,90,93,96,99,258]}
-
 df = pd.DataFrame(data)
-
 df
 
 sns.boxplot(data=df)
 
 z = np.abs(stats.zscore(df))
-
 print(df[z['weight']>3])
 
 val = [12,15,18,21,24,27,30,33,36,39,42,45,48,51,54,57,60,63,66,69,202,72,75,78,81,84,232,87,90,93,96,99,258]
@@ -94,20 +81,15 @@ m=np.mean(val)
 sd=np.std(val)
 
 for i in val:
-
 z=(i-m)/sd
-
 if np.abs(z)>ts:
-
   out.append(i)
 return out
 
 op = d_o(val)
-
 op
 ```
 # OUTPUT:
-
 <img width="522" alt="image" src="https://github.com/Vineesha29031970/ODD2023---Datascience---Ex-02/assets/133136880/4baeb615-0cab-4f01-ac0a-f31d46f9a692">
 <img width="476" alt="image" src="https://github.com/Vineesha29031970/ODD2023---Datascience---Ex-02/assets/133136880/c2e40600-8daf-4115-8ab7-aa8f962e0fd6">
 <img width="135" alt="image" src="https://github.com/Vineesha29031970/ODD2023---Datascience---Ex-02/assets/133136880/6a99428f-811a-4aa1-ad4b-3ad034976e21">
